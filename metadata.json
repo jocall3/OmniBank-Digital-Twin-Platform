@@ -1,0 +1,5 @@
+{
+  "name": "OmniBank Digital Twin Platform",
+  "description": "A high-performance enterprise platform for managing digital twins of banking assets, featuring AI-driven schema generation, anomaly detection, and predictive analytics powered by Gemini 3.",
+  "requestFramePermissions": []
+}
